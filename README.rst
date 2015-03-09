@@ -1,7 +1,7 @@
 ploneintranet.docs
 ==================
 
-The documentation for the PloneIntranet Project.
+The documentation for the Plone Intranet Project.
 
 These are updated automatically from https://github.com/ploneintranet/ploneintranet.docs and available on http://docs.ploneintranet.org/.
 
